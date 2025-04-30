@@ -16,11 +16,11 @@ A Python repository for various data analytic workloads.
   - 🧠 Backtest the model and apply risk management
   
 - **rawData/**  
- - Fetch raw historical stock market data from Polgygon REST API.
- - Add parameters and mathematical functions for building the model
+  Fetch raw historical stock market data from Polgygon REST API.
+  Add parameters and mathematical functions for building the model
 
 - **backtest/**  
- - Finilize model build to make it ready for backtesting.
- - Handle backtesting and risk management.
+  Finilize model build to make it ready for backtesting.
+  Handle backtesting and risk management.
 
 ---
