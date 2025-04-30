@@ -9,7 +9,7 @@ A Python repository for various data analytic workloads.
 - **Investing/**  
   A Python package designed to create a system trading model (algorithm) for stock trading. This module includes utilities for importing market data, creating system trading model and backtesting.
 
-### Features
+- **Features**
 
 - 📈 Ingest historical market data from Polygon REST API
 - 💼 Create a trading model, add entry and exits
