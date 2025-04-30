@@ -1,4 +1,4 @@
-# Investing Toolkit
+# Data analysis workloads
 
 A Python package designed to create a system trading model (algorithm) for stock trading. This module includes utilities for importing market data, creating system trading model and backtesting.
 
