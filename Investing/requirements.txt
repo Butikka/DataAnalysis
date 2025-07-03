@@ -1,0 +1,15 @@
+requests
+pandas
+datetime
+time
+polygon-api-client
+logging
+signal
+sys
+pickle5  # For older versions of Python if needed
+lz4
+concurrent-log-handler  # Closest useful dependency for concurrent.futures and logging
+numpy
+scikit-learn
+glob2  # glob is built-in, but glob2 helps with advanced matching
+nbimporter

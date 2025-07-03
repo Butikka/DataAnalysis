@@ -1,0 +1,9 @@
+pyspark
+pandas
+databricks-sdk
+requests
+azure-identity
+azure-keyvault-certificates
+azure-keyvault-secrets
+office365-rest-python-client
+numpy
